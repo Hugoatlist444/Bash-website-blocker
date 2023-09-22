@@ -6,7 +6,7 @@ This tutorial provides a step-by-step guide on how to implement the Website Bloc
 
 1. **Download the Script**:
 
-   Click [here](https://raw.githubusercontent.com/username/repository/branch/website_blocker.sh) to open the script in your browser. Replace `username`, `repository`, and `branch` with the actual details of the GitHub repository where the script is located.
+   Click [here](https://github.com/Hugoatlist444/stay-focus-/blob/main/block-websites.sh) to open the script in your browser. Replace `username`, `repository`, and `branch` with the actual details of the GitHub repository where the script is located.
 
 2. **Save the Script**:
 
